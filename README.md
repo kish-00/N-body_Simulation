@@ -1,6 +1,6 @@
-# PHYS333-Final-Project
-For my final project in PHYS 333: Fundamentals of Astrophysics, I created an n-body simulator to explore the chaotic effects of having more than two bodies interacting gravitationally.
+For my final project in PHYS 333 (Fundamentals of Astrophysics) I created an n-body simulator to explore the chaotic effects of having more than two bodies interacting gravitationally.
 
+# An Exploration of the N-Body Problem
 In our universe, there are countless systems containing more than one body. Our solar system alone contains a star and eight
 (or nine, depending on who you ask) planets, along with many smaller asteroids and debris. Our galaxy is comprised of around
 200 billion stars and a super-massive black hole at its center. Where, then, lies the dilemma of having more than two bodies
