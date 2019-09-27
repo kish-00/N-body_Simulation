@@ -10,4 +10,4 @@ o cause the sun to move very much and are far enough away from each other that t
 ¬n¬-body problem comes into play when the bodies in the system are all of comparable mass and interact with each of the other
 bodies in the system.
 
-The webpage devoted to this project can viewed [here.] (http://udel.edu/~dmpilla/phys333/)
+**The webpage devoted to this project can viewed [here.] (http://udel.edu/~dmpilla/phys333/)**
