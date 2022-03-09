@@ -1,6 +1,4 @@
-# Desiderio Pilla
-# PHYS 333
-# Term Project
+# Year Project
 
 # TO RUN A SIMULATION GO TO LINE 94
 # Line 91: Set scale of turtle (default is 10/AU for larger systems)

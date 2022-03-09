@@ -103,6 +103,3 @@ class Body(Turtle):
         xForce = math.cos(theta) * f_gravitational
         yForce = math.sin(theta) * f_gravitational
         return xForce, yForce
-    
-''' The code for Body and simulate classes was written with the source code at
-https://fiftyexamples.readthedocs.io/en/latest/gravity.html used as a guide. '''

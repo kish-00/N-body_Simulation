@@ -1,4 +1,4 @@
-For my final project in PHYS 333 (Fundamentals of Astrophysics) I created an n-body simulator to explore the chaotic effects of having more than two bodies interacting gravitationally.
+For my project I created an n-body simulator to explore the chaotic effects of having more than two bodies interacting gravitationally.
 
 # An Exploration of the N-Body Problem
 In our universe, there are countless systems containing more than one body. Our solar system alone contains a star and eight
@@ -10,4 +10,3 @@ o cause the sun to move very much and are far enough away from each other that t
 ¬n¬-body problem comes into play when the bodies in the system are all of comparable mass and interact with each of the other
 bodies in the system.
 
-**The webpage devoted to this project can viewed [here.] (http://udel.edu/~dmpilla/phys333/)**
